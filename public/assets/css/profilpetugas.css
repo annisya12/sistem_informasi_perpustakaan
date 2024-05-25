@@ -1,0 +1,23 @@
+body {
+  background-color: #0C014F;
+  color: white;
+  padding: 20px;
+}
+
+.rounded-image {
+  width: 1011px;
+  height: 639px;
+  border-radius: 30px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.rounded-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.text-end {
+  text-align: right;
+}

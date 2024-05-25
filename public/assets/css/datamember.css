@@ -1,0 +1,94 @@
+body {
+    background-color: #0C014F;
+    color: white;
+}
+
+.sidebar {
+    background-color: #0C014F;
+    height: 105vh;
+    border-right: 2px solid white;
+}
+
+.sidebar h4 {
+    font-family: 'Inter', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+    color: white;
+    /* Teks di sidebar berwarna putih */
+}
+
+.navbar {
+    background-color: #0C014F;
+    border-bottom: 3px solid white;
+    position: relative;
+}
+
+.main-content {
+    background-color: #0C014F;
+    border-left: 2px solid white;
+}
+
+.navbar-brand span {
+    font-family: 'Inter', sans-serif;
+    font-weight: black;
+    font-size: 23px;
+    margin-bottom: 7px;
+}
+
+.navbar-card {
+    background-color: #D0CADD;
+    position: absolute;
+    top: 22%;
+    /* Sesuaikan dengan nilai yang diinginkan */
+    transform: translateY(-50%);
+    width: 180px;
+    height: 36px;
+    margin-left: 50px;
+}
+
+.navbar-card .card-body {
+    padding: 0.31rem;
+    text-align: left;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.data-member {
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    text-align: center;
+}
+
+th,
+td {
+    border: 1px solid #AE95D0;
+    padding: 8px;
+    text-align: center;
+    background-color: #AE95D0;
+}
+
+th {
+    background-color: #AE95D0;
+}
+
+tr:nth-child(even) {
+    background-color: #1a194b;
+}
+
+.button-kembali {
+    background-color: #E4EAF8;
+    margin-top: 6px;
+    color: black;
+    margin-left: 0;
+    /* Reset margin kembali ke 0 */
+    align-self: flex-start;
+    /* Posisikan tombol ke sebelah kiri */
+}

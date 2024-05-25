@@ -1,0 +1,94 @@
+body {
+    background-color: #0C014F;
+    color: white;
+}
+
+.sidebar {
+    background-color: #0C014F;
+    height: 100vh;
+    border-right: 2px solid white;
+}
+
+.navbar {
+    background-color: #0C014F;
+    border-bottom: 2px solid white;
+}
+
+.main-content {
+    border-left: 2px solid white;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.bg-white {
+    background-color: white;
+    color: black; /* Ensure text color is readable */
+    margin-bottom: 20px;
+    border-radius: 5px; /* Optional: to match the style of other elements */
+}
+
+#mainCard2 {
+    min-height: 100vh;
+}
+
+.kategori {
+    font-family: 'Gelasio', sans-serif;
+    font-weight: medium;
+    font-style: italic;
+    /* font-size: medium; */
+}
+
+.sidebar h4 {
+    font-family: 'Inter', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+}
+
+.navbar-brand span {
+    font-family: 'Inter', sans-serif;
+    font-weight: black;
+    font-size: 20px;
+}
+
+.cari-link {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.cari-link span {
+    color: #000000; /* Mengubah warna font menjadi #000000 */
+}
+
+.cari-link img {
+    vertical-align: middle; /* Mengatur vertikal align agar gambar dan teks sejajar */
+    margin-right: 5px; /* Atur margin kanan untuk penyesuaian antara gambar dan teks */
+}
+
+
+.cari-link span {
+    margin-left: 5px; /* Atur sesuai kebutuhan */
+}
+
+/* Memindahkan profil dan nama ke kanan */
+.navbar-nav.ms-auto {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-nav.ms-auto .nav-link {
+    display: flex;
+    align-items: center;
+}
+
+/* Tambahkan margin-right ke profil dan nama */
+.navbar-nav.ms-auto .nav-link {
+    margin-right: 15px; /* Sesuaikan nilai margin-right sesuai kebutuhan */
+}
+
+.navbar-nav.ms-auto .nav-link span {
+    margin-left: 8px;
+    vertical-align: middle;
+}

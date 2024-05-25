@@ -1,0 +1,96 @@
+body {
+    background-color: #0C014F;
+    color: white;
+}
+
+.sidebar {
+    background-color: #0C014F;
+    height: 105vh;
+    border-right: 2px solid white;
+}
+
+.navbar {
+    background-color: #0C014F;
+    border-bottom: 3px solid white;
+    position: relative;
+}
+
+.main-content {
+    border-left: 2px solid white;
+}
+
+.sidebar h4 {
+    font-family: 'Inter', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+}
+
+.navbar-brand span {
+    font-family: 'Inter', sans-serif;
+    font-weight: black;
+    font-size: 23px;
+}
+
+.navbar-card {
+    background-color: #C47CB0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 180px;
+    /* Sesuaikan dengan lebar card */
+    height: 36px;
+    /* Sesuaikan dengan tinggi card */
+    margin-left: 205px;
+    /* Jarak antara card dan navbar */
+}
+
+.navbar-card .card-body {
+    padding: 0.31rem;
+    /* Atur padding sesuai kebutuhan */
+    text-align: left;
+    /* Atur posisi teks menjadi kiri */
+    margin-bottom: 10px;
+    display: flex;
+    /* Menggunakan flexbox */
+    align-items: center;
+    /* Menyamakan tinggi elemen */
+}
+
+.data-aktivitas {
+    color: white;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border: 1px solid #AE95D0;
+    padding: 8px;
+    text-align: center;
+    background-color: #AE95D0;
+}
+
+th {
+    background-color: #1a194b;
+}
+
+tr:nth-child(even) {
+    background-color: #1a194b;
+}
+
+.denda-img {
+    width: 18px;
+    height: auto;
+}
+
+.status-img {
+    width: 18px;
+    height: auto;
+}

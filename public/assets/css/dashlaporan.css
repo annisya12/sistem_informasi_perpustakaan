@@ -1,0 +1,48 @@
+body {
+    background-color: #0C014F;
+    color: white;
+}
+
+.sidebar {
+    background-color: #0C014F;
+    height: 100vh;
+    border-right: 2px solid white;
+    color: white; /* Warna teks putih */
+}
+
+.navbar {
+    background-color: #0C014F;
+    border-bottom: 2px solid white; /* Garis bawah navbar */
+}
+
+.main-content {
+    border-left: 2px solid white;
+    background-color: #0C014F; /* Atur warna latar belakang agar sesuai dengan body */
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.col-2.sidebar {
+    padding-right: 15px;
+}
+
+.sidebar h4 {
+    font-family: 'Inter', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+    color: white; /* Warna teks putih */
+}
+
+.navbar-brand span {
+    font-family: 'Inter', sans-serif;
+    font-weight: black;
+    font-size: 23px;
+}

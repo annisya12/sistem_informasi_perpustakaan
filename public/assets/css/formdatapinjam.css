@@ -1,0 +1,17 @@
+body{
+    font-family: "Lexend Deca", sans-serif;
+}
+
+.body-color {
+    background-color: #0C014F;
+}
+
+.btn-ungu{
+    background-color: #5737B7;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 85%;
+    margin-bottom: 120px;
+}
