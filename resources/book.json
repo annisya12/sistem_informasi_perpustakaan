@@ -1,0 +1,130 @@
+[
+    {
+        "judul": "Dear J",
+        "penulis": "I Made",
+        "tahun_terbit": 2020,
+        "genre": "Akuntansi",
+        "jumlah_halaman": 300,
+        "cover": "assets/img/1.png"
+    },
+    {
+        "judul": "Jodoh Terbaik",
+        "penulis": "Novega Pratama",
+        "tahun_terbit": 2019,
+        "genre": "Informatika",
+        "jumlah_halaman": 250,
+        "cover": "assets/img/2.png"
+    },
+    {
+        "judul": "Koperasi Simpan Pinjam",
+        "penulis": "Budi",
+        "tahun_terbit": 2018,
+        "genre": "Misteri",
+        "jumlah_halaman": 200,
+        "cover": "assets/img/3.png"
+    },
+    {
+        "judul": "The Book Of Alice",
+        "penulis": "Abdul",
+        "tahun_terbit": 2017,
+        "genre": "Petualangan",
+        "jumlah_halaman": 220,
+        "cover": "assets/img/4.png"
+    },
+    {
+        "judul": "Wangsit TNI Polri",
+        "penulis": "Bella",
+        "tahun_terbit": 2020,
+        "genre": "Pendidikan",
+        "jumlah_halaman": 250,
+        "cover": "assets/img/5.png"
+    },
+    {
+        "judul": "Wangsit CPNS PPPK",
+        "penulis": "Cindy",
+        "tahun_terbit": 2019,
+        "genre": "Kuliner",
+        "jumlah_halaman": 200,
+        "cover": "assets/img/6.png"
+    },
+    {
+        "judul": "Dark Dawn",
+        "penulis": "Dian",
+        "tahun_terbit": 2016,
+        "genre": "Misteri",
+        "jumlah_halaman": 280,
+        "cover": "assets/img/7.png"
+    },
+    {
+        "judul": "Dongen Nusantara",
+        "penulis": "Eva",
+        "tahun_terbit": 2021,
+        "genre": "Seni",
+        "jumlah_halaman": 220,
+        "cover": "assets/img/8.png"
+    },
+    {
+        "judul": "Delicious Home Cooking",
+        "penulis": "Firman",
+        "tahun_terbit": 2018,
+        "genre": "Fiksi",
+        "jumlah_halaman": 240,
+        "cover": "assets/img/9.png"
+    },
+    {
+        "judul": "Piece Of The Moon",
+        "penulis": "Gatot",
+        "tahun_terbit": 2022,
+        "genre": "Self-Help",
+        "jumlah_halaman": 200,
+        "cover": "assets/img/10.png"
+    },
+    {
+        "judul": "Buku Ajar BIOLOGI",
+        "penulis": "Helen",
+        "tahun_terbit": 2017,
+        "genre": "Bisnis",
+        "jumlah_halaman": 300,
+        "cover": "assets/img/11.png"
+    },
+    {
+        "judul": "Matematika Kelas XII",
+        "penulis": "Indra",
+        "tahun_terbit": 2020,
+        "genre": "Petualangan",
+        "jumlah_halaman": 220,
+        "cover": "assets/img/12.png"
+    },
+    {
+        "judul": "Si Putih",
+        "penulis": "Joko",
+        "tahun_terbit": 2015,
+        "genre": "Pendidikan",
+        "jumlah_halaman": 250,
+        "cover": "assets/img/13.png"
+    },
+    {
+        "judul": "Bobo Mengenal Jenis Air Minum dalam Kemasan",
+        "penulis": "Kartika",
+        "tahun_terbit": 2023,
+        "genre": "Kuliner",
+        "jumlah_halaman": 180,
+        "cover": "assets/img/14.png"
+    },
+    {
+        "judul": "Dasar-Dasar Teknik Informatika",
+        "penulis": "Laras",
+        "tahun_terbit": 2019,
+        "genre": "Self-Help",
+        "jumlah_halaman": 240,
+        "cover": "assets/img/15.png"
+    },
+    {
+        "judul": "Pengantar Akuntansi",
+        "penulis": "Mega",
+        "tahun_terbit": 2021,
+        "genre": "Bisnis",
+        "jumlah_halaman": 220,
+        "cover": "assets/img/16.png"
+    }
+]

@@ -1,0 +1,33 @@
+body {
+    background-color: #0C014F;
+    color: white;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+    min-height: auto;
+}
+
+.main-content {
+    border-left: 2px solid white;
+    /* Border kiri konten utama */
+}
+
+/* Properti untuk melengkungkan tepi */
+.main-content>div {
+    border-radius: 14px;
+}
+
+/* Penyesuaian untuk tanda ":" */
+.col-md-8 p {
+    margin-bottom: 10px; /* Spasi antara setiap paragraf */
+    display: flex;
+    align-items: baseline; /* Menyelaraskan titik dasar dari semua elemen dalam baris */
+}
+
+.col-md-8 p:before {
+    flex: 0 0 120px; /* Lebar elemen sebelum tanda ":" */
+    content: ':';
+    margin-right: 10px; /* Spasi antara tanda ":" dan teks */
+}

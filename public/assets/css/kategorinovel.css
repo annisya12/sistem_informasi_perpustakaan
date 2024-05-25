@@ -1,0 +1,73 @@
+body {
+    background-color: #0C014F;
+    color: white;
+}
+
+.sidebar {
+    background-color: #0C014F;
+    height: 100vh;
+    border-right: 2px solid white;
+}
+
+.navbar {
+    background-color: #0C014F;
+    border-bottom: 2px solid white;
+}
+
+.main-content {
+    border-left: 2px solid white;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.bg-white {
+    background-color: white;
+    color: black; /* Ensure text color is readable */
+    margin-bottom: 20px;
+    border-radius: 5px; /* Optional: to match the style of other elements */
+}
+
+#mainCard1 {
+    min-height: 100vh;
+}
+
+.Novel {
+    font-family: 'Gelasio', sans-serif;
+    font-weight: medium;
+    font-style: italic;
+}
+
+.sidebar h4 {
+    font-family: 'Inter', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+}
+
+.navbar-brand span {
+    font-family: 'Inter', sans-serif;
+    font-weight: black;
+    font-size: 20px;
+}
+
+/* Memindahkan profil dan nama ke kanan */
+.navbar-nav.ms-auto {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-nav.ms-auto .nav-link {
+    display: flex;
+    align-items: center;
+}
+
+/* Tambahkan margin-right ke profil dan nama */
+.navbar-nav.ms-auto .nav-link {
+    margin-right: 15px; /* Sesuaikan nilai margin-right sesuai kebutuhan */
+}
+
+.navbar-nav.ms-auto .nav-link span {
+    margin-left: 8px;
+    vertical-align: middle;
+}

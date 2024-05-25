@@ -1,0 +1,72 @@
+body {
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+    /* Menambahkan font Lexend Deca */
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    border-radius: 20px;
+    width: 900px;
+    /* Mengatur lebar container */
+    height: 300px;
+    /* Mengatur tinggi container */
+}
+
+
+p {
+    font-size: 24px;
+    /* Mengatur ukuran teks paragraf */
+    line-height: 1.5;
+    /* Mengatur jarak antara baris teks */
+    margin-bottom: 20px;
+    /* Mengatur jarak bawah antara paragraf dan elemen berikutnya */
+}
+
+input[type="text" i] {
+    padding-block: 2px;
+    padding-inline: 3px;
+    width: 300px;
+    /* Mengatur lebar input */
+    height: 30px;
+    /* Mengatur tinggi input */
+    border: 1px solid transparent;
+    /* Menghilangkan outline dengan border transparan */
+    border-radius: 30px;
+    /* Mengatur sudut melengkung */
+    padding-inline-start: 10px;
+    /* Menambahkan jarak kiri */
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #0272F4;
+    /* Warna biru dari Bootstrap (primary) */
+    border-color: #0272F4;
+    /* Warna border yang sama dengan latar belakang */
+    color: white;
+    /* Warna teks (putih) */
+    width: 300px;
+    /* Lebar tombol */
+    height: 30px;
+    /* Tinggi tombol */
+    font-size: 16px;
+    /* Ukuran font teks tombol */
+}
